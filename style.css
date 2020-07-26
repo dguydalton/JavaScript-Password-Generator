@@ -38,7 +38,7 @@ label {
     font-weight: bold;
 }
 
-.characterAmountContainer {
+.character-amount-container {
     display: flex;
     align-items: center;
 }
@@ -47,7 +47,7 @@ label {
   width: 2rem;  
 }
 
-.passwordDisplay {
+.password-display {
     background-color: white;
     color: black;
     padding: 1rem;
